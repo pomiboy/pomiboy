@@ -12,13 +12,4 @@ I truly love building pretty things through screens
 
 ### Contact
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pomiryu_)
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pomiboy&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pomiboy&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pomiboy&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
-
----
-<!-- [![](https://visitcount.itsvg.in/api?id=pomiboy&icon=8&color=1)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
