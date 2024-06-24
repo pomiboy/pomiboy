@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://info.korea.ac.kr/info/under/sw_intro.do"><strong>Software Major</strong></a> @ 
   <a href="https://www.korea.ac.kr/mbshome/mbs/university/index.do">
-    <img src="https://img.shields.io/badge/Korea%20University-red" alt="Korea University"/>
+    <img align="top" src="https://img.shields.io/badge/Korea%20University-red" alt="Korea University"/>
   </a>
 </p>
 
