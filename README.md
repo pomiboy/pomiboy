@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Daniel Park</h1>
+  <h1>call me Pomiboy</h1>
   <h3>Passionate Front-end Developer from South Korea</h3>
   <p>I truly love building pretty things through screens.</p>
 </div>
