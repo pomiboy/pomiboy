@@ -25,4 +25,4 @@
 
 <br />
 
-<p>Contact via <stong>pomiboy@yoursai.app</stong> </p>
+<p>Contact via <strong>pomiboy@yoursai.app</strong> </p>
