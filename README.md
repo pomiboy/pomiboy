@@ -25,5 +25,4 @@
 
 <br />
 
-<p>Contact via Email</p>
-<p>pomiboy@yoursai.app</p>
+<p>Contact via <stong>pomiboy@yoursai.app</stong> </p>
