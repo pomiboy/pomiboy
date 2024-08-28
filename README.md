@@ -17,6 +17,7 @@
 <div>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="react">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="react-native">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=nextdotjs">
 </div>
 <div>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="figma">
