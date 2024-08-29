@@ -4,7 +4,7 @@
   <img align="top" src="https://img.shields.io/badge/Korea%20University-8C0025" alt="Korea University"/>
 </a>
 
-<p><strong>Frontend Engineer</strong> @ <a href="https://www.pygmalion.team"><img alt="Static Badge" src="https://img.shields.io/badge/Pygmalion%20Team-black?style=flat"></a>
+<p><strong>Frontend Engineer</strong> @ <a href="https://www.pygmalion.team"><img align="top" alt="Static Badge" src="https://img.shields.io/badge/Pygmalion%20Team-black?style=flat"></a>
 </p>
 
 <br />
