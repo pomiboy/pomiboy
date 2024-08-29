@@ -1,10 +1,11 @@
 
 <a style="text-decoration: none;" href="https://info.korea.ac.kr/info/under/sw_intro.do"><strong>Software Major</strong></a> @ 
 <a href="https://www.korea.ac.kr/mbshome/mbs/university/index.do">
-  <img align="top" src="https://img.shields.io/badge/Korea%20University-red" alt="Korea University"/>
+  <img align="top" src="https://img.shields.io/badge/Korea%20University-8C0025" alt="Korea University"/>
 </a>
 
-<p><strong>Frontend Engineer</strong> @ <img align="top" src="https://img.shields.io/badge/Pygmalion%20Team-pink?style=flat&link=https://www.pygmalion.team" alt="Pygmalion Team" /></p>
+<p><strong>Frontend Engineer</strong> @ <a href="https://www.pygmalion.team"><img alt="Static Badge" src="https://img.shields.io/badge/Pygmalion%20Team-black?style=flat"></a>
+</p>
 
 <br />
 
